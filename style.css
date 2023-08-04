@@ -1,0 +1,8 @@
+.altura-item {
+  height: 500px; /* Altura del contenedor*/
+}
+
+.altura-img {
+  height: 100%; /*Ocuparf el 100% del alto del contenedor */
+  object-fit: cover; /* Redimencionar */
+}
